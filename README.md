@@ -2,6 +2,10 @@
 
 Anon is a fully responsive and modern eCommerce website frontend template built using HTML, CSS, and JavaScript. It is designed for showcasing products across a variety of categories such as fashion, electronics, jewelry, cosmetics, and more.
 
+Deployment: https://anon-e-commerce-website-umber.vercel.app/
+
+![image](https://github.com/user-attachments/assets/c0083aa7-dd10-49d0-b754-180b260fab0a)
+
 ## 🛍 Features
 
 - Responsive modern design
